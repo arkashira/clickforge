@@ -1,2 +1,4 @@
-# clickforge
-axentx product · A browser automation tool that provides advanced capabilities for tech professionals to automate browser interactions, integrated with our existing DevSecOps tooling
+# Template Library
+This project provides a template library that can be customized with environment variables.
+## Usage
+To use the template library, run the following command:
